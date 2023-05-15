@@ -21,6 +21,7 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 
 
 **In details:**
+
 ![Machine Learning Methods](learningMethods.png)
 
 
