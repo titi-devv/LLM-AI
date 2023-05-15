@@ -6,7 +6,7 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 - [Pre-trained LLM](#pre-trained-llm)
   - [Paid License](#paid-license)
   - [Research Only](#research-only)
-  - [Open Source](#open-source)
+  - [Commercial](#commercial)
 - [LLM Training Frameworks](#llm-training-frameworks)
 - [Useful Resources](#useful-resources)
 - [Sources](#sources)
@@ -34,7 +34,7 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 | HuggingGPT    | ?                           | ?                    | ?                                                                          | ?                                                                            | AI that delegates to other AI from HuggingFace (and ChatGPT) platform                                                   | Microsoft                |
 
 
-### Open Source
+### Commercial
 
 | Name of Model  | License       | Accessibility                        | Dataset Used for Training                                                                                                | Parameters                              | Features                                                                                                                                                                  | Author                      |
 | -------------- | ------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
