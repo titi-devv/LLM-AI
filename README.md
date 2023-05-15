@@ -2,7 +2,7 @@
 
 There are hundreds of LLMs on the market. This repository is a comparative list of the most established.
 
-**Table Of Contents**
+## Table Of Contents
 - [Pre-trained LLM](#pre-trained-llm)
   - [Paid License](#paid-license)
   - [Research Only](#research-only)
@@ -13,12 +13,16 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 
 ## Pre-trained LLM
 
+
 ### Paid License
+
 | Name of Model | License | Accessibility                                        | Dataset Used for Training                               | Parameters  | Features                                                                                                                           | Author |
 | ------------- | ------- | ---------------------------------------------------- | ------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | GPT-4         | Paid    | Limited access via ChatGPT and API (with a waitlist) | 45TB of various, including books, articles and websites | 175 billion | Almost any NLU, NLG, and multimodal task; advanced reasoning and instruction-following capabilities; improved safety and alignment | OpenAI |
 
+
 ### Research only
+
 | Name of Model | License                     | Accessibility                                        | Dataset Used for Training                                                  | Parameters                                                                   | Features                                                                                                                           | Author                   |
 | ------------- | --------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | GPT-4         | Paid                        | Limited access via ChatGPT and API (with a waitlist) | 45TB of various, including books, articles and websites                    | 175 billion                                                                  | Almost any NLU, NLG, and multimodal task; advanced reasoning and instruction-following capabilities; improved safety and alignment | OpenAI                   |
@@ -29,7 +33,9 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 | GALACTICA     | ?                           | ?                                                    | Scientific articles, websites, textbooks, lecture notes, and encyclopedias | ?                                                                            | Science fine-tuned                                                                                                                 | Meta AI                  |
 | StableLM      | CC BY-NC-SA 4.0             | Hugging Face                                         | The Pile                                                                   | 3 billion and 7 billion (alpha version), 15 billion and 65 billion (planned) | Conversational and coding tasks, with low parameter count and high efficiency                                                      | Stability AI             |
 
+
 ### Open Source
+
 | GPT-4      | Paid                        | Limited access via ChatGPT and API (with a waitlist) | 45TB of various, including books, articles and websites                    | 175 billion                                                                  | Almost any NLU, NLG, and multimodal task; advanced reasoning and instruction-following capabilities; improved safety and alignment | OpenAI                   |
 | ---------- | --------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | LLaMA      | Open source, Non-Commercial | App required                                         | CCNet, C4, GitHub, Wikipedia, Books, ArXiv, Stack Exchange                 | ?                                                                            | Exploring the capabilities and limitations of large language models for various natural language processing tasks                  | Meta AI                  |
@@ -39,6 +45,7 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 | GALACTICA  | ?                           | ?                                                    | Scientific articles, websites, textbooks, lecture notes, and encyclopedias | ?                                                                            | Science fine-tuned                                                                                                                 | Meta AI                  |
 | StableLM   | CC BY-NC-SA 4.0             | Hugging Face                                         | The Pile                                                                   | 3 billion and 7 billion (alpha version), 15 billion and 65 billion (planned) | Conversational and coding tasks, with low parameter count and high efficiency                                                      | Stability AI             |
 | HuggingGPT | ?                           | ?                                                    | ?                                                                          | ?                                                                            | AI that delegates to other AI from HuggingFace (and ChatGPT) platform                                                              | Microsoft                |
+
 
 ## LLM Training Frameworks
 
@@ -51,11 +58,15 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 | BMTrain         | https://github.com/OpenBMB/BMTrain     | Efficient large model training toolkit that can be used to train large models with tens of billions of parameters. It can train models in a distributed manner while keeping the code as simple as stand-alone training.                                                                                                                                                                                                                               |
 | Mesh TensorFlow | https://github.com/tensorflow/mesh     | Formalizes and implements distribution strategies for your computation graph over your hardware/processors. Mesh TensorFlow is implemented as a layer over TensorFlow. |
 
+
 ## Useful Resources
+
 - [Emergent Mind](https://chat.lmsys.org/?arena) - Chat with two models side-by-side and vote for which one is better! Includes a Leaderboard.
 - [Run ChatGPT-like AI in 60 lines of code](https://jaykmody.com/blog/gpt-from-scratch/#input-%2F-output)
 
+
 ## Sources
+
 - [Open-llms](https://github.com/eugeneyan/open-llms)
 - [Awesome-llm](https://github.com/sanjibnarzary/awesome-llm)
 - [Open Source ChatGPT like list](https://github.com/SunLemuria/open_source_chatgpt_list)
