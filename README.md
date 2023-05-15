@@ -3,6 +3,8 @@
 There are hundreds of LLMs on the market. This repository is a comparative list of the most established.
 
 ## Table Of Contents
+
+- [Definitions](#definitions)
 - [Pre-trained LLM](#pre-trained-llm)
   - [Paid License](#paid-license)
   - [Research Only](#research-only)
@@ -10,6 +12,12 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 - [LLM Training Frameworks](#llm-training-frameworks)
 - [Useful Resources](#useful-resources)
 - [Sources](#sources)
+
+## Definitions
+- LLM: Large Language Model, a type of AI -> deep learning
+- Fine-tuning: Focusing the LLM AI to perform better on a specific field/task by learning more data to the related field/task.
+- Zero-shot-learning: Machine learning technique, that aims an AI to perform task without any training example from taht task.
+
 
 ## Pre-trained LLM
 
