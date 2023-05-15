@@ -1,4 +1,8 @@
-## LLM-AI for EXCLUSIBLE
+# LLM-AI for EXCLUSIBLE
+
+There are hundreds of LLMs on the market. This repository is a comparative list of the most established.
+
+## Pre-trained LLM
 
 | Name of Model  | Release Type   | License                     | Accessibility                                        | Dataset Used for Training                                                                                                | Parameters                                                                   | Features                                                                                                                                                                             | Author                      |
 | -------------- | -------------- | --------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
@@ -35,6 +39,7 @@
 
 ## Useful Resources
 - [Emergent Mind](https://chat.lmsys.org/?arena) - Chat with two models side-by-side and vote for which one is better! Includes a Leaderboard.
+- [Run ChatGPT-like AI in 60 lines of code](https://jaykmody.com/blog/gpt-from-scratch/#input-%2F-output)
 
 ## Sources
 - [Open-llms](https://github.com/eugeneyan/open-llms)
