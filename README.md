@@ -19,6 +19,8 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 - **Fine-tuning:** Focusing the LLM AI to perform better on a specific field/task by learning more data to the related field/task.
 - **Zero-shot-learning:** Machine learning technique, that aims an AI to perform task without any training example from taht task.
 
+![Machine Learning Methods](learningMethods.png)
+
 
 ## Pre-trained LLM
 
