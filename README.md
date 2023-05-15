@@ -4,6 +4,9 @@ There are hundreds of LLMs on the market. This repository is a comparative list 
 
 **Table Of Contents**
 - [Pre-trained LLM](#pre-trained-llm)
+  - [Paid License](#paid-license)
+  - [Research Only](#research-only)
+  - [Open Source](#open-source)
 - [LLM Training Frameworks](#llm-training-frameworks)
 - [Useful Resources](#useful-resources)
 - [Sources](#sources)
