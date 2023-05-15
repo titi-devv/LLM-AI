@@ -33,3 +33,13 @@
 | Colossal-AI     | https://colossalai.org/                | user-friendly tools to kickstart                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | BMTrain         | https://github.com/OpenBMB/BMTrain     | efficient large model training toolkit that can be used to train large models with tens of billions of parameters. It can train models in a distributed manner while keeping the code as simple as stand-alone training.                                                                                                                                                                                                                               |
 | Mesh TensorFlow | https://github.com/tensorflow/mesh     | language for distributed deep learning, capable of specifying a broad class of distributed tensor computations. The purpose of Mesh TensorFlow is to formalize and implement distribution strategies for your computation graph over your hardware/processors. For example: "Split the batch over rows of processors and split the units in the hidden layer across columns of processors." Mesh TensorFlow is implemented as a layer over TensorFlow. |
+
+## Useful Resources
+- [Emergent Mind](https://chat.lmsys.org/?arena) - Chat with two models side-by-side and vote for which one is better! Includes a Leaderboard.
+
+## Sources
+- [Open-llms](https://github.com/eugeneyan/open-llms)
+- [Awesome-llm](https://github.com/sanjibnarzary/awesome-llm)
+- [Open Source ChatGPT like list](https://github.com/SunLemuria/open_source_chatgpt_list)
+- [OS Fine-tuned LLMs](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
+- [Awesome Open LLM](https://github.com/Hannibal046/Awesome-LLM#open-llm)
