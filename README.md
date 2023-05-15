@@ -2,6 +2,12 @@
 
 There are hundreds of LLMs on the market. This repository is a comparative list of the most established.
 
+**Table Of Contents**
+- [Pre-trained LLM](#pre-trained-llm)
+- [LLM Training Frameworks](#llm-training-frameworks)
+- [Useful Resources](#useful-resources)
+- [Sources](#sources)
+
 ## Pre-trained LLM
 | Name of Model  | Release Type   | License                     | Accessibility                                        | Dataset Used for Training                                                                                                | Parameters                                                                   | Features                                                                                                                                                                  | Author                      |
 | -------------- | -------------- | --------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
